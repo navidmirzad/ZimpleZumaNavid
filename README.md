@@ -1,3 +1,0 @@
-# My attempt at Zimple Zuma - Navid M.
-
-- ikke færdigt...
