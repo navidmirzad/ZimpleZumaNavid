@@ -313,7 +313,8 @@ class LinkedList {
   }
 }
 
-/* ll.addLast("1");
+/* const ll = new LinkedList();
+ll.addLast("1");
 ll.addLast("2");
 ll.addLast("3");
 ll.addLast("4");
@@ -321,7 +322,4 @@ ll.addLast("5");
 
 console.log("Original linked list: ");
 ll.dumpList();
-
-console.log("Swapping node2 and node4: ");
-ll.swapNodes("2", "4");
-ll.dumpList(); */
+ */
